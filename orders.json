@@ -1,0 +1,44 @@
+{
+  "MJXTP0012974": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Victor Dieter, Lessingstraße 11, 18209 Bad Doberan, Deutschland",
+    "receiver": "Jean Pierre Rollin, 47 Rue des Guillaumes, 93130 Noisy-le-Sec, Frankreich",
+    "price": "12.900 €",
+    "description": "Hersteller: Jaguar <br>Typ: XJ12 XJ 5.3C <br> Fahrgestelnummer: 2G51226BW <br> Erstzulassung: 08/1977 <br> TÜV: 04/2027 <br> KM laut Vorbesitzer: 84.949 km <br>Leistung: 213 kW (290 PS) <br> Hubraum: 5.343 cm³ <br> Farbe: Weiß <br> <br> Fahrzeug ist makellos. <br> Das Auto ist voll funktionsfähig, Keine Unfälle verzeichnet <br> Bezitser 2 <br> Deutsch Zulassung. Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Jean Pierre Rollin<br> 47 Rue des Guillaumes<br> 93130 Noisy-le-Sec<br> Frankreich
+<br>Telefon: +33 607763664",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "21-09-2026",
+    "deliveryDate": "29-09-2026",
+    "pickup": {
+      "street": "Lindenstraat 33",
+      "postal_code": "18209",
+      "city": "Bad Doberan",
+      "country": "Deutschland"
+    },
+    "delivery": {
+      "street": "47 Rue des Guillaumes",
+      "postal_code": "93130",
+      "city": "Noisy-le-Sec",
+      "country": "Frankreich"
+    }
+  }
+}
